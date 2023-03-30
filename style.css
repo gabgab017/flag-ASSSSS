@@ -1,0 +1,33 @@
+body{
+  background-color: grey;
+  border-style: solid;
+  border: 2px;
+  border-color: black;
+  border-radius: 10px;
+}
+
+.country {
+  display: inline-block;
+  width: 25%;
+  text-align: center;
+  margin-bottom: 10px;
+  border: 2px solid black;
+  border-color: black;
+  border-radius: 20px;
+}
+.flag {
+  width: 150px;
+  height: 120px;
+  margin-bottom: 10px;
+  border-radius: 20px;
+  border: 2px solid black;
+
+}
+.name {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+.population {
+  font-size: 18px;
+}
